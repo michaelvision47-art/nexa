@@ -4,7 +4,7 @@ export const company = {
   description:
     "NEXABLOOM helps organizations design, build, modernize, and operate mission-critical software systems.",
   email: "hello@nexa-blooms.com",
-  phone: "+1 (270) 555-0148",
+  phone: "+1 (254) 503-4152",
   address: "1811 N Dixie Hwy Ste 111, Elizabethtown, KY 42701",
 };
 
